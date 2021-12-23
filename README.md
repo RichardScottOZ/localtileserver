@@ -31,7 +31,7 @@ thread which will serve raster imagery to a viewer (see `ipyleaflet` and
 
 This tile server can efficiently deliver varying levels of detail of your
 raster imagery to your viewer; it helps to have pre-tiled, Cloud Optimized
-GeoTIFFs (COG), but no wories if not as the backing libraries,
+GeoTIFFs (COG), but no worries if not as the backing libraries,
 [`large_image`](https://github.com/girder/large_image),
 will tile and cache for you when opening the raster.
 
